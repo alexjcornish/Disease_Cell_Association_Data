@@ -5,12 +5,12 @@ The disease-cell type association data computed using the **DiseaseCellTypes** R
 
 **DiseaseCellTypes** R-package is available from: http://alexjcornish.github.io/DiseaseCellTypes.
 
-The references paper details the three methods used compute disease-cell type association p-values:
+The raw text-mining publication counts are available upon request from a.cornish12@imperial.ac.uk.
+
+The referenced paper details the three methods used compute disease-cell type association p-values:
 - Gene set compactness (GSC)
 - Gene set overexpression (GSO)
 - Text-mining of the PubMed database. 
-
-The raw text-mining publication counts are available upon request from a.cornish12@imperial.ac.uk.
 
 
 Diseases and Cell Types Tested
