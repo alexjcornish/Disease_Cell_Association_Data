@@ -5,7 +5,7 @@ The disease-cell type association data computed using the DiseaseCellTypes R-pac
 
 The DiseaseCellTypes R-package is available from: http://alexjcornish.github.io/DiseaseCellTypes.
 
-The references paper details the three methods used to identify disease-associated cell types:
+The references paper details the three methods used compute disease-cell type association p-values:
 - Gene set compactness (GSC)
 - Gene set overexpression (GSO)
 - Text-mining of the PubMed database. 
@@ -21,11 +21,11 @@ File Descriptions
 ===========
 
 - *details_cells.tsv*: Matrix of details of the cell types tested. This contains the name we refer to them as (NAME, obtained from FANTOM5), the mapped Cell Ontology ID (CL.ID) and the mapped MeSH terms (MESH). 
-- *details_diseases.tsv*: Matrix of details of the diseases tested. This contains the name we refer to them as (NAME, obtained from DisGeNET), the mapped UMLS IDs (UMLS) and the mapped MeSH terms (MESH). 
-- _gsc_pvalues.tsv_: Association matrix of p-values containing 100 diseases and 73 cell types. P-values computed using the GSC method. 
-- gso_pvalues.tsv: Association matrix of p-values containing 100 diseases and 73 cell types. P-values computed using the GSO method. 
-- text_pvalues_large.tsv: Association matrix of p-values containing 406 diseases and 157 cell types. P-values computed using text-mining of PubMed using mapped MeSH terms.
-- text_pvalues.tsv: Association matrix of p-values containing 100 diseases and 73 cell types. P-values computed using text-mining of PubMed using mapped MeSH terms.
+- **details_diseases.tsv**: Matrix of details of the diseases tested. This contains the name we refer to them as (NAME, obtained from DisGeNET), the mapped UMLS IDs (UMLS) and the mapped MeSH terms (MESH). 
+- gsc_pvalues.tsv: Association matrix containing 100 diseases and 73 cell types. P-values computed using the GSC method. 
+- gso_pvalues.tsv: Association matrix containing 100 diseases and 73 cell types. P-values computed using the GSO method. 
+- text_pvalues_large.tsv: Association matrix containing 406 diseases and 157 cell types. P-values computed through text-mining of PubMed using mapped MeSH terms.
+- text_pvalues.tsv: Association matrix ocontaining 100 diseases and 73 cell types. P-values computed through text-mining of PubMed using mapped MeSH terms.
 
 
 References
