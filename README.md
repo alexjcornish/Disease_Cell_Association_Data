@@ -33,4 +33,6 @@ File Descriptions
 References
 ===========
 
-Paper under preparation.
+Our paper under preparation.
+
+Forrest ARR et al. (2014) A promoter-level mammalian expression atlas. Nature 507(7493):462-470.
