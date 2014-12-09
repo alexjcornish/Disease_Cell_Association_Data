@@ -27,7 +27,7 @@ File Descriptions
 - **gsc_pvalues.tsv**: Association matrix containing 100 diseases and 73 cell types. P-values computed using the GSC method. 
 - **gso_pvalues.tsv**: Association matrix containing 100 diseases and 73 cell types. P-values computed using the GSO method. 
 - **text_pvalues_large.tsv**: Association matrix containing 406 diseases and 157 cell types. P-values computed through text-mining of PubMed using mapped MeSH terms.
-- **text_pvalues.tsv**: Association matrix ocontaining 100 diseases and 73 cell types. P-values computed through text-mining of PubMed using mapped MeSH terms.
+- **text_pvalues.tsv**: Association matrix containing 100 diseases and 73 cell types. P-values computed through text-mining of PubMed using mapped MeSH terms.
 
 
 References
