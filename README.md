@@ -1,7 +1,7 @@
 Disease Cell Association Data
-===
+==========
 
-The disease-cell type association data computed using the [DiseaseCellTypes R-package](http://alexjcornish.github.io/DiseaseCellTypes/ "DiseaseCellTypes") and text-mining of PubMed. The raw text-mining publication counts are available upon request from a.cornish12 at imperial.ac.uk.
+The disease-cell type association data computed using the [DiseaseCellTypes R-package][1] and text-mining of PubMed. The raw text-mining publication counts are available upon request from a.cornish12 at imperial.ac.uk.
 
 The referenced paper details the three methods used to compute disease-cell type association p-values:
 - Gene set compactness (GSC)
@@ -10,7 +10,7 @@ The referenced paper details the three methods used to compute disease-cell type
 
 
 Diseases and Cell Types Tested
-===========
+----------
 
 100 diseases and 73 cell types are tested for associations in the referenced paper using the GSC, GSO and text-mining methods. The results produced (gsc_pvalues.tsv, gso_pvalues.tsv, text_pvalues.tsv) can be downloaded using the links under the page header. 
 
@@ -18,7 +18,7 @@ The text-mining results for a larger set of 406 diseases and 157 cell types (tex
 
 
 File Descriptions
-===========
+----------
 
 - **details_cells.tsv**: Matrix of details of the cell types tested. This contains the name we refer to them as (NAME, obtained from FANTOM5), the mapped Cell Ontology ID (CL.ID) and the mapped MeSH terms (MESH). 
 - **details_diseases.tsv**: Matrix of details of the diseases tested. This contains the name we refer to them as (NAME, obtained from DisGeNET), the mapped UMLS IDs (UMLS) and the mapped MeSH terms (MESH). 
@@ -29,8 +29,11 @@ File Descriptions
 
 
 References
-===========
+----------
 
 Our paper under preparation.
 
 Forrest ARR et al. (2014) A promoter-level mammalian expression atlas. Nature 507(7493):462-470.
+
+
+[1]: http://alexjcornish.github.io/DiseaseCellTypes/
