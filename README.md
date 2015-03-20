@@ -1,4 +1,4 @@
-Disease Cell Association Data
+Disease-Cell Type Association Data
 ==========
 
 The disease-cell type association data computed using the [DiseaseCellTypes R-package][1] and text-mining of PubMed. The raw text-mining publication counts are available upon request from a.cornish12 at imperial.ac.uk.
