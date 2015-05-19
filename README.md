@@ -31,9 +31,6 @@ File Descriptions
 References
 ----------
 
-Our paper under preparation.
-
-Forrest ARR et al. (2014) A promoter-level mammalian expression atlas. Nature 507(7493):462-470.
-
+Cornish AJ, Filippis I, David A and Sternberg MJE (2015) Exploring the cellular basis of human disease through a large-scale mapping of deleterious genes to cell types. (Under Revision)
 
 [1]: http://alexjcornish.github.io/DiseaseCellTypes/
