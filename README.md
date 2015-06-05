@@ -1,12 +1,12 @@
 Disease-Cell Type Association Data
 ==========
 
-The disease-cell type association data computed using the [DiseaseCellTypes R-package][1] and text-mining of PubMed.
-
 Associations between 503 diseases and 73 cell types were identified using three methods:
 - Gene set compactness (GSC)
 - Gene set overexpression (GSO)
 - Text-mining of the PubMed database. 
+
+The GSC and GSO methods are implemented within the [DiseaseCellTypes R-package][1].
 
 Cornish et al. (2015) contains details on these three methods and how the 503 diseases and 73 cell types were selected.
 
