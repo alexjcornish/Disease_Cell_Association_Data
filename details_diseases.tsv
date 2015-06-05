@@ -1,4 +1,4 @@
-NAME	UMLS	MESH
+NAME	UMLS.ID	MESH
 abortion, habitual	UMLS:C0000809	Abortion, Habitual
 abortion, spontaneous	UMLS:C0000786	Abortion, Spontaneous
 acne vulgaris	UMLS:C0001144	Acne Vulgaris
@@ -6,22 +6,32 @@ acquired hyperostosis syndrome	UMLS:C0263859	Acquired Hyperostosis Syndrome
 acquired immunodeficiency syndrome	UMLS:C0001175	Acquired Immunodeficiency Syndrome
 acromegaly	UMLS:C0001206	Acromegaly
 acute coronary syndrome	UMLS:C0948089	Acute Coronary Syndrome
+acute myocardial infarction	UMLS:C0155626	Myocardial Infarction
 acute pancreatitis	UMLS:C0001339	Pancreatitis
 addison disease	UMLS:C0001403	Addison Disease
-adenoma of large intestine	UMLS:C1302401	Adenoma
+adenocarcinoma pancreas	UMLS:C0281361	Pancreatic Neoplasms
+adenoma of large intestine	UMLS:C1302401	Colorectal Neoplasms
+advanced sleep-phase syndrome, familial	UMLS:C1858496	Sleep Disorders, Circadian Rhythm
+affective disorders, psychotic	UMLS:C0001723	Affective Disorders, Psychotic
 alcohol abuse	UMLS:C0085762	Alcoholism
+alcohol withdrawal delirium	UMLS:C0001957	Alcohol Withdrawal Delirium
+alcohol-related disorders	UMLS:C0236664	Alcohol-Related Disorders
 alcoholism	UMLS:C0001973	Alcoholism
 allergic asthma	UMLS:C0155877	Respiratory Hypersensitivity
 alopecia areata	UMLS:C0002171	Alopecia Areata
 altitude sickness	UMLS:C0002351	Altitude Sickness
+alveolar bone loss	UMLS:C0002382	Alveolar Bone Loss
 amyloidosis	UMLS:C0002726	Amyloidosis
 amyotrophic lateral sclerosis	UMLS:C0002736	Amyotrophic Lateral Sclerosis
 anemia	UMLS:C0002871	Anemia
 anemia, aplastic	UMLS:C0002874	Anemia, Aplastic
 aneurysm	UMLS:C0002940	Aneurysm
 angina pectoris	UMLS:C0002962	Angina Pectoris
+angina pectoris, variant	UMLS:C0002963	Angina Pectoris, Variant
 anorexia nervosa	UMLS:C0003125	Anorexia Nervosa
+anti-glomerular basement membrane disease	UMLS:C0403529	Anti-Glomerular Basement Membrane Disease
 antiphospholipid syndrome	UMLS:C0085278	Antiphospholipid Syndrome
+antisocial personality disorder	UMLS:C0003431	Antisocial Personality Disorder
 anxiety disorders	UMLS:C0003469	Anxiety Disorders
 aortic aneurysm, abdominal	UMLS:C0162871	Aortic Aneurysm, Abdominal
 appendicitis	UMLS:C0003615	Appendicitis
@@ -30,6 +40,7 @@ arthritis, juvenile rheumatoid	UMLS:C0553662	Arthritis, Juvenile
 arthritis, psoriatic	UMLS:C0003872	Arthritis, Psoriatic
 arthritis, rheumatoid	UMLS:C0003873	Arthritis, Rheumatoid
 as if' personality	UMLS:C0003944	Personality Disorders
+asbestosis	UMLS:C0003949	Asbestosis
 aspergillosis	UMLS:C0004030	Aspergillosis
 asthma	UMLS:C0004096	Asthma
 atherosclerosis	UMLS:C0004153	Atherosclerosis
@@ -37,7 +48,7 @@ atopy	UMLS:C0392707	Dermatitis, Atopic
 atrial fibrillation	UMLS:C0004238	Atrial Fibrillation
 atrial fibrillation, familial	UMLS:C1837014,UMLS:C1837812,UMLS:C1862394,UMLS:C1969099,UMLS:C2677106,UMLS:C2677294,UMLS:C2751607,UMLS:C3151431,UMLS:C3151464,UMLS:C3279693,UMLS:C3279695	Atrial Fibrillation
 attention deficit disorder with hyperactivity	UMLS:C1263846	Attention Deficit Disorder with Hyperactivity
-atypical hemolytic uremic syndrome	UMLS:C2931788	Hemolytic-Uremic Syndrome
+autism, susceptibility to, x-linked	UMLS:C1845540	Autistic Disorder
 autistic disorder	UMLS:C0004352	Autistic Disorder
 autoimmune diseases	UMLS:C0004364	Autoimmune Diseases
 autoimmune thyroid disease	UMLS:C0178468	Thyroiditis, Autoimmune
@@ -48,8 +59,13 @@ balkan nephropathy	UMLS:C0004698	Balkan Nephropathy
 barrett esophagus	UMLS:C0004763	Barrett Esophagus
 behcet syndrome	UMLS:C0004943	Behcet Syndrome
 bipolar disorder	UMLS:C0005586	Bipolar Disorder
-blood coagulation disorders	UMLS:C0005779	Blood Coagulation Disorders
+borderline personality disorder	UMLS:C0006012	Borderline Personality Disorder
+brain aneurysm	UMLS:C0751003	Intracranial Aneurysm
 brain infarction	UMLS:C0751955	Brain Infarction
+bronchial hyperreactivity	UMLS:C0085129	Bronchial Hyperreactivity
+bronchiectasis with or without elevated sweat chloride	UMLS:C2749757	Bronchiectasis
+bronchiolitis	UMLS:C0006271	Bronchiolitis
+bronchiolitis obliterans	UMLS:C0006272	Bronchiolitis Obliterans
 brucellosis	UMLS:C0006309	Brucellosis
 bulimia	UMLS:C0006370	Bulimia
 candidiasis	UMLS:C0006840	Candidiasis
@@ -63,27 +79,31 @@ carotid stenosis	UMLS:C0007282	Carotid Stenosis
 cataract	UMLS:C0086543	Cataract
 cataract, posterior polar	UMLS:C1854311,UMLS:C1857718,UMLS:C1861825,UMLS:C1864567	Cataract
 celiac disease	UMLS:C0007570	Celiac Disease
+cerebral amyloid angiopathy	UMLS:C0085220	Cerebral Amyloid Angiopathy
 cerebral infarction	UMLS:C0007785	Cerebral Infarction
 cerebral palsy	UMLS:C0007789	Cerebral Palsy
 cerebrovascular disorders	UMLS:C0007820	Cerebrovascular Disorders
+chagas cardiomyopathy	UMLS:C0007930	Chagas Cardiomyopathy
 chagas disease	UMLS:C0041234	Chagas Disease
+childhood asthma	UMLS:C0264408	Asthma
 childhood ataxia with central nervous system hypomyelinization	UMLS:C1858991	Leukoencephalopathies
 cholangitis, sclerosing	UMLS:C0008313	Cholangitis, Sclerosing
-cholecystolithiasis	UMLS:C0947622	Cholecystolithiasis
 cholelithiasis	UMLS:C0008350	Cholelithiasis
-cholelithiasis (& calculus: [bile duct] or [cystic duct] or [gallbladder])	UMLS:C1535187	Cholelithiasis
 cholestasis	UMLS:C0008370	Cholestasis
-choline deficiency	UMLS:C0008412	Choline Deficiency
+cholesteatoma	UMLS:C0008373	Cholesteatoma
 chronic periodontitis	UMLS:C0266929	Chronic Periodontitis
 chylothorax	UMLS:C0008733	Chylothorax
 cirrhosis	UMLS:C1623038	Liver Cirrhosis
+cleft lip with or without cleft palate	UMLS:C0810364	Cleft Lip
+cluster headache	UMLS:C0009088	Cluster Headache
 cocaine abuse	UMLS:C0009171	Cocaine-Related Disorders
 cocaine dependence	UMLS:C0600427	Cocaine-Related Disorders
 colitis, ulcerative	UMLS:C0009324	Colitis, Ulcerative
 colonic polyps	UMLS:C0009376	Colonic Polyps
+colorectal cancer metastatic	UMLS:C0948380	Colorectal Neoplasms
 common variable immunodeficiency	UMLS:C0009447	Common Variable Immunodeficiency
-conduct disorder	UMLS:C0149654	Conduct Disorder
 congenital central hypoventilation syndrome	UMLS:C1275808	Hypoventilation
+congenital myopathy with fiber type disproportion	UMLS:C0546264	Myopathies, Structural, Congenital
 congestive heart failure	UMLS:C0018802	Heart Failure
 coronary arteriosclerosis	UMLS:C0010054	Coronary Artery Disease
 coronary artery disease	UMLS:C1956346	Coronary Artery Disease
@@ -93,11 +113,13 @@ coronary vasospasm	UMLS:C0010073	Coronary Vasospasm
 creutzfeldt-jakob syndrome	UMLS:C0022336	Creutzfeldt-Jakob Syndrome
 crohn disease	UMLS:C0010346	Crohn Disease
 cryptococcosis	UMLS:C0010414	Cryptococcosis
+cushing's symphalangism	UMLS:C1861385	Joint Diseases
 cystitis, interstitial	UMLS:C0282488	Cystitis, Interstitial
 cytomegalovirus infections	UMLS:C0010823	Cytomegalovirus Infections
 deafness	UMLS:C0011053,UMLS:C0581883	Deafness
-deafness, autosomal dominant	UMLS:C1852282	Deafness
-deafness, autosomal recessive	UMLS:C1846647,UMLS:C1970239	Deafness
+deafness, autosomal dominant	UMLS:C1852282	Hearing Loss, Sensorineural
+death, sudden	UMLS:C0011071	Death, Sudden
+death, sudden, cardiac	UMLS:C0085298	Death, Sudden, Cardiac
 deep vein thrombosis	UMLS:C0149871	Venous Thrombosis
 delirium	UMLS:C0011206	Delirium
 dementia	UMLS:C0497327	Dementia
@@ -105,24 +127,29 @@ dementia, vascular	UMLS:C0011269	Dementia, Vascular
 dengue hemorrhagic fever	UMLS:C0019100	Severe Dengue
 dental caries	UMLS:C0011334	Dental Caries
 depression	UMLS:C0011570,UMLS:C0812393	Depressive Disorder
+depression, postpartum	UMLS:C0221074	Depression, Postpartum
 depressive disorder, major	UMLS:C1269683	Depressive Disorder, Major
 dermatitis and eczema	UMLS:C0477474	Eczema
 diabetes	UMLS:C0011847	Diabetes Mellitus
+diabetes insipidus, neurogenic	UMLS:C0687720	Diabetes Insipidus, Neurogenic
 diabetes mellitus	UMLS:C0011849	Diabetes Mellitus
+diabetes mellitus, permanent neonatal	UMLS:C1833104	Diabetes Mellitus
 diabetes mellitus, type 1	UMLS:C0011854	Diabetes Mellitus, Type 1
 diabetes mellitus, type 2	UMLS:C0011860	Diabetes Mellitus, Type 2
 diabetes, gestational	UMLS:C0085207	Diabetes, Gestational
 diabetic nephropathies	UMLS:C0011881	Diabetic Nephropathies
 diabetic neuropathies	UMLS:C0011882	Diabetic Neuropathies
+diabetic polyneuropathy	UMLS:C0271680	Diabetic Neuropathies
 diabetic retinopathy	UMLS:C0011884	Diabetic Retinopathy
 diarrhea	UMLS:C0011991	Diarrhea
 disorder of artery	UMLS:C0852949	Carotid Artery Diseases
-drug dependence	UMLS:C1510472	Substance-Related Disorders
-drug hypersensitivity	UMLS:C0013182	Drug Hypersensitivity
+drug eruptions	UMLS:C0011609	Drug Eruptions
 duodenal ulcer	UMLS:C0013295	Duodenal Ulcer
+dupuytren contracture	UMLS:C0013312	Dupuytren Contracture
 dyskinesia, drug-induced	UMLS:C0013386	Dyskinesia, Drug-Induced
 dyskinesias	UMLS:C0013384	Dyskinesias
 dyslipidemias	UMLS:C0242339	Dyslipidemias
+dysmenorrhea	UMLS:C0013390	Dysmenorrhea
 dyspepsia	UMLS:C0013395	Dyspepsia
 dystonia	UMLS:C0013421	Dystonia
 dystonic disorders	UMLS:C0393593	Dystonic Disorders
@@ -130,24 +157,32 @@ eating disorders	UMLS:C0013473	Eating Disorders
 eczema	UMLS:C0013595	Eczema
 emphysema	UMLS:C0013990	Emphysema
 endometriosis	UMLS:C0014175	Endometriosis
+eosinophilia	UMLS:C0014457	Eosinophilia
 epilepsy	UMLS:C0014544	Epilepsy
 epilepsy, childhood absence, susceptibility to	UMLS:C1843244,UMLS:C2677087,UMLS:C2749872	Epilepsy, Absence
 epilepsy, generalized	UMLS:C0014548	Epilepsy, Generalized
+epilepsy, idiopathic generalized	UMLS:C0270850	Epilepsy, Generalized
 epilepsy, progressive myoclonic	UMLS:C2676254	Myoclonic Epilepsies, Progressive
 epilepsy, temporal lobe	UMLS:C0014556	Epilepsy, Temporal Lobe
-epiphyseal dysplasia, multiple	UMLS:C1832998,UMLS:C1838280,UMLS:C1838429,UMLS:C1846843,UMLS:C1847593	Osteochondrodysplasias
 erectile dysfunction	UMLS:C0242350	Erectile Dysfunction
+erythema	UMLS:C0041834	Erythema
 erythrocytosis, familial	UMLS:C1837915,UMLS:C1853286,UMLS:C2673187	Polycythemia
 esophageal achalasia	UMLS:C0014848	Esophageal Achalasia
 esophageal carcinoma	UMLS:C0152018	Esophageal Neoplasms
+esophageal varices	UMLS:C0014867	Esophageal and Gastric Varices
 essential tremor	UMLS:C0270736	Essential Tremor
+exfoliation syndrome	UMLS:C0206368	Exfoliation Syndrome
+exudative vitreoretinopathy	UMLS:C1851402	Vitreoretinopathy, Proliferative
 fatigue syndrome, chronic	UMLS:C0015674	Fatigue Syndrome, Chronic
 fatty liver	UMLS:C0015695	Fatty Liver
 fibromyalgia	UMLS:C0016053	Fibromyalgia
+fluorosis, dental	UMLS:C0026618	Fluorosis, Dental
 focal segmental glomerulosclerosis	UMLS:C1858915	Glomerulosclerosis, Focal Segmental
-folic acid deficiency	UMLS:C0016412	Folic Acid Deficiency
 food hypersensitivity	UMLS:C0016470	Food Hypersensitivity
+frontotemporal dementia	UMLS:C0338451	Frontotemporal Dementia
 frontotemporal lobar degeneration	UMLS:C0751072	Frontotemporal Lobar Degeneration
+gallbladder diseases	UMLS:C0016977	Gallbladder Diseases
+gastric adenocarcinoma	UMLS:C0278701	Gastrointestinal Neoplasms
 gastritis	UMLS:C0017152	Gastritis
 gastritis, atrophic	UMLS:C0017154	Gastritis, Atrophic
 giant cell arteritis	UMLS:C0039483	Giant Cell Arteritis
@@ -158,22 +193,27 @@ glaucoma, primary open angle	UMLS:C0339573	Glaucoma, Open-Angle
 glomerulonephritis	UMLS:C0017658	Glomerulonephritis
 glomerulonephritis, iga	UMLS:C0017661	Glomerulonephritis, IGA
 glomerulosclerosis, focal segmental	UMLS:C0017668	Glomerulosclerosis, Focal Segmental
+glossitis, benign migratory	UMLS:C0017677	Glossitis, Benign Migratory
+glucose intolerance	UMLS:C0271650	Glucose Intolerance
 graft vs host disease	UMLS:C0018133	Graft vs Host Disease
 graves disease	UMLS:C0018213	Graves Disease
 graves ophthalmopathy	UMLS:C0339143	Graves Ophthalmopathy
 growth disorders	UMLS:C0018273	Growth Disorders
 guillain-barre syndrome	UMLS:C0018378	Guillain-Barre Syndrome
 hashimoto disease	UMLS:C0677607	Hashimoto Disease
+head and neck paraganglioma	UMLS:C1333944	Paraganglioma
 hearing loss, sensorineural	UMLS:C0018784	Hearing Loss, Sensorineural
 heart diseases	UMLS:C0018799	Heart Diseases
 heart failure	UMLS:C0018801	Heart Failure
+heart failure, diastolic	UMLS:C1135196	Heart Failure, Diastolic
 heart failure, systolic	UMLS:C1135191	Heart Failure, Systolic
 helicobacter infections	UMLS:C0079487	Helicobacter Infections
-helicobacter pylori infection	UMLS:C0850666	Helicobacter Infections
 hellp syndrome	UMLS:C0162739	HELLP Syndrome
+hematuria, benign familial	UMLS:C0241908	Hematuria
 hemolytic uremic syndrome, atypical, susceptibility to	UMLS:C2749604,UMLS:C2752036,UMLS:C2752037,UMLS:C2752038,UMLS:C2752039,UMLS:C2752040	Hemolytic-Uremic Syndrome
 hemolytic-uremic syndrome	UMLS:C0019061	Hemolytic-Uremic Syndrome
 hemorrhagic disorders	UMLS:C0019087	Hemorrhagic Disorders
+hemorrhagic fever, crimean	UMLS:C0019099	Hemorrhagic Fever, Crimean
 hepatic veno-occlusive disease	UMLS:C0019156	Hepatic Veno-Occlusive Disease
 hepatitis b	UMLS:C0019163	Hepatitis B
 hepatitis b, chronic	UMLS:C0524909	Hepatitis B, Chronic
@@ -182,13 +222,17 @@ hepatitis c, chronic	UMLS:C0524910	Hepatitis C, Chronic
 hepatitis, autoimmune	UMLS:C0241910	Hepatitis, Autoimmune
 heroin abuse	UMLS:C0600241	Heroin Dependence
 heroin dependence	UMLS:C0019337	Heroin Dependence
+herpes zoster	UMLS:C0019360	Herpes Zoster
 hirschsprung disease, susceptibility to	UMLS:C1838564,UMLS:C3150974,UMLS:C3150975	Hirschsprung Disease
 hiv infections	UMLS:C0019693	HIV Infections
 hot flashes	UMLS:C0600142	Hot Flashes
+htlv-i infections	UMLS:C0020097	HTLV-I Infections
 human t-cell lymphotropic virus 1 infection	UMLS:C1512326	HIV Infections
 hypercholesterolemia	UMLS:C0020443	Hypercholesterolemia
+hyperglycemia	UMLS:C0020456	Hyperglycemia
 hyperkeratosis	UMLS:C0870082	Hyperkeratosis, Epidermolytic
 hyperlipidemias	UMLS:C0020473	Hyperlipidemias
+hyperlipoproteinemias	UMLS:C0020476	Hyperlipoproteinemias
 hyperparathyroidism, primary	UMLS:C0221002	Hyperparathyroidism, Primary
 hyperparathyroidism, secondary	UMLS:C0020503	Hyperparathyroidism, Secondary
 hypersensitivity	UMLS:C0020517	Hypersensitivity
@@ -199,10 +243,11 @@ hypertension, pulmonary	UMLS:C0020542	Hypertension, Pulmonary
 hypertrophy, left ventricular	UMLS:C0149721	Hypertrophy, Left Ventricular
 hyperuricemia	UMLS:C0740394	Hyperuricemia
 hypogonadotropic hypogonadism	UMLS:C0271623	Hypogonadism
+hypoparathyroidism	UMLS:C0020626	Hypoparathyroidism
 hypothyroidism	UMLS:C0020676	Hypothyroidism
+idiopathic inflammatory myopathy	UMLS:C0751356	Myositis
 idiopathic pulmonary fibrosis	UMLS:C1800706	Idiopathic Pulmonary Fibrosis
 iga deficiency	UMLS:C0162538	IgA Deficiency
-infertility	UMLS:C0021359	Infertility
 infertility, female	UMLS:C0021361	Infertility, Female
 infertility, male	UMLS:C0021364	Infertility, Male
 inflammation	UMLS:C0021368	Inflammation
@@ -212,21 +257,27 @@ intellectual disability	UMLS:C0025362	Intellectual Disability
 intervertebral disc degeneration	UMLS:C0158266	Intervertebral Disc Degeneration
 intervertebral disc displacement	UMLS:C0021818	Intervertebral Disc Displacement
 intracranial aneurysm	UMLS:C0007766	Intracranial Aneurysm
+iron overload	UMLS:C0282193	Iron Overload
 irritable bowel syndrome	UMLS:C0022104	Irritable Bowel Syndrome
 ischemia	UMLS:C0022116	Ischemia
 ischemic cerebrovascular accident	UMLS:C3272363	Ischemia
 ischemic stroke	UMLS:C0948008	Stroke
 juvenile arthritis	UMLS:C3495559	Arthritis, Juvenile
+keloid	UMLS:C0022548	Keloid
 keratoconus	UMLS:C0022578	Keratoconus
+keratosis, seborrheic	UMLS:C0022603	Keratosis, Seborrheic
 kidney calculi	UMLS:C0022650	Kidney Calculi
 kidney diseases	UMLS:C0022658	Kidney Diseases
 kidney failure	UMLS:C0035078	Renal Insufficiency
-kidney failure, acute	UMLS:C0022660	Renal Insufficiency
+kidney failure, acute	UMLS:C0022660	Acute Kidney Injury
 kidney failure, chronic	UMLS:C0022661	Kidney Failure, Chronic
+legg-calve-perthes disease	UMLS:C0023234	Legg-Calve-Perthes Disease
+leishmaniasis, cutaneous	UMLS:C0023283	Leishmaniasis, Cutaneous
 leprosy	UMLS:C0023343	Leprosy
 leprosy, lepromatous	UMLS:C0023348	Leprosy, Lepromatous
 lewy body disease	UMLS:C0752347	Lewy Body Disease
 lichen planus, oral	UMLS:C0206139	Lichen Planus, Oral
+lipid metabolism disorders	UMLS:C0154251	Lipid Metabolism Disorders
 liver cirrhosis	UMLS:C0023890	Liver Cirrhosis
 liver cirrhosis, alcoholic	UMLS:C0023891	Liver Cirrhosis, Alcoholic
 liver cirrhosis, biliary	UMLS:C0023892	Liver Cirrhosis, Biliary
@@ -241,14 +292,18 @@ lupus erythematosus, discoid	UMLS:C0024138	Lupus Erythematosus, Discoid
 lupus erythematosus, systemic	UMLS:C0024141	Lupus Erythematosus, Systemic
 lupus nephritis	UMLS:C0024143	Lupus Nephritis
 lupus vulgaris	UMLS:C0024131	Lupus Vulgaris
+lyme disease	UMLS:C0024198	Lyme Disease
 lymphedema	UMLS:C0024236	Lymphedema
 lymphohistiocytosis, hemophagocytic	UMLS:C0024291	Lymphohistiocytosis, Hemophagocytic
 lymphoproliferative disorders	UMLS:C0024314	Lymphoproliferative Disorders
+macroangiopathy	UMLS:C1096293	Vascular Diseases
 macular degeneration	UMLS:C0024437,UMLS:C0242383	Macular Degeneration
 macular degeneration, age-related	UMLS:C1837187,UMLS:C1853147,UMLS:C1857813,UMLS:C1864205,UMLS:C1969108,UMLS:C1969651,UMLS:C2677774,UMLS:C3151060,UMLS:C3151079,UMLS:C3495438	Macular Degeneration
 malaria	UMLS:C0024530	Malaria
 malaria, cerebral	UMLS:C0024534	Malaria, Cerebral
 malaria, falciparum	UMLS:C0024535	Malaria, Falciparum
+malignant hyperthermia	UMLS:C0024591	Malignant Hyperthermia
+memory disorders	UMLS:C0025261	Memory Disorders
 memory impairment	UMLS:C0233794	Memory Disorders
 meniere disease	UMLS:C0025281	Meniere Disease
 meningococcal infections	UMLS:C0025303	Meningococcal Infections
@@ -264,7 +319,6 @@ mitral valve prolapse	UMLS:C0026267	Mitral Valve Prolapse
 mood disorders	UMLS:C0525045	Mood Disorders
 moyamoya disease	UMLS:C0026654	Moyamoya Disease
 mucocutaneous lymph node syndrome	UMLS:C0026691	Mucocutaneous Lymph Node Syndrome
-multiple chemical sensitivity	UMLS:C0242992	Multiple Chemical Sensitivity
 multiple sclerosis	UMLS:C0026769	Multiple Sclerosis
 multiple system atrophy	UMLS:C0393571	Multiple System Atrophy
 myasthenia gravis	UMLS:C0026896	Myasthenia Gravis
@@ -273,73 +327,93 @@ myelodysplastic syndromes	UMLS:C0026986	Myelodysplastic Syndromes
 myeloproliferative disorders	UMLS:C0027022	Myeloproliferative Disorders
 myocardial infarction	UMLS:C0027051	Myocardial Infarction
 myocardial ischemia	UMLS:C0151744	Myocardial Ischemia
-myoclonic epilepsy, juvenile	UMLS:C0270853	Myoclonic Epilepsy, Juvenile
 myopia, degenerative	UMLS:C0154778	Myopia, Degenerative
+myositis	UMLS:C0027121	Myositis
 narcolepsy	UMLS:C0027404	Narcolepsy
 nasal polyps	UMLS:C0027430	Nasal Polyps
+nausea	UMLS:C0027497	Nausea
 nemaline myopathy	UMLS:C1836448	Myopathies, Nemaline
 nephrolithiasis	UMLS:C0392525	Nephrolithiasis
 nephronophthisis	UMLS:C0687120	Kidney Diseases, Cystic
 nephrotic syndrome	UMLS:C0027726	Nephrotic Syndrome
 nephrotic syndrome with lesion of minimal change glomerulonephritis	UMLS:C1704321	Nephrosis, Lipoid
 neurodegenerative diseases	UMLS:C0524851	Neurodegenerative Diseases
+neuropathy	UMLS:C0442874	Nervous System Diseases
 neuroticism	UMLS:C1842981	Anxiety Disorders
 nicotine dependence	UMLS:C0028043	Tobacco Use Disorder
-non-alcoholic fatty liver disease	UMLS:C0400966	Fatty Liver
 obesity	UMLS:C0028754	Obesity
 obesity, morbid	UMLS:C0028756	Obesity, Morbid
 obsessive-compulsive disorder	UMLS:C0028768	Obsessive-Compulsive Disorder
 obstetric labor, premature	UMLS:C0022876	Obstetric Labor, Premature
+oligospermia	UMLS:C0028960	Oligospermia
+onchocerciasis	UMLS:C0029001	Onchocerciasis
+ophthalmoplegia, chronic progressive external	UMLS:C0162674	Ophthalmoplegia, Chronic Progressive External
 opiate addiction	UMLS:C0524662	Opioid-Related Disorders
 orofacial dyskinesia	UMLS:C0152115	Meige Syndrome
 osteitis deformans	UMLS:C0029401	Osteitis Deformans
 osteoarthritis	UMLS:C0029408	Osteoarthritis
+osteoarthritis, hip	UMLS:C0029410	Osteoarthritis, Hip
 osteoarthritis, knee	UMLS:C0409959	Osteoarthritis, Knee
 osteomyelitis	UMLS:C0029443	Osteomyelitis
 osteonecrosis	UMLS:C0029445	Osteonecrosis
 osteopetrosis, autosomal recessive	UMLS:C1850127	Osteopetrosis
 osteoporosis	UMLS:C0029456	Osteoporosis
 osteoporosis, postmenopausal	UMLS:C0029458	Osteoporosis, Postmenopausal
+osteoporotic fractures	UMLS:C0521170	Osteoporotic Fractures
 otitis media	UMLS:C0029882	Otitis Media
 otosclerosis	UMLS:C0029899	Otosclerosis
+ovarian hyperstimulation syndrome	UMLS:C0085083	Ovarian Hyperstimulation Syndrome
 overweight	UMLS:C0497406	Overweight
+paget disease	UMLS:C1368019	Osteitis Deformans
+pain	UMLS:C0030193	Pain
 pancreatitis	UMLS:C0030305	Pancreatitis
 pancreatitis, alcoholic	UMLS:C0376670	Pancreatitis, Alcoholic
 pancreatitis, chronic	UMLS:C0149521	Pancreatitis, Chronic
 panic disorder	UMLS:C0030319	Panic Disorder
+parvoviridae infections	UMLS:C0276275	Parvoviridae Infections
+pelvic inflammatory disease	UMLS:C0242172	Pelvic Inflammatory Disease
 pemphigus	UMLS:C0030807	Pemphigus
 pemphigus vulgaris	UMLS:C0030809	Pemphigus
 penis agenesis	UMLS:C1387005	Genital Diseases, Male
 periodontal diseases	UMLS:C0031090	Periodontal Diseases
 periodontitis	UMLS:C0031099	Periodontitis
 peripheral arterial disease	UMLS:C1704436	Peripheral Arterial Disease
+peripheral nervous system diseases	UMLS:C0031117	Peripheral Nervous System Diseases
 peripheral vascular diseases	UMLS:C0085096	Peripheral Vascular Diseases
 personality disorders	UMLS:C0031212	Personality Disorders
 pneumococcal infections	UMLS:C0032269	Pneumococcal Infections
+pneumoconiosis	UMLS:C0032273	Pneumoconiosis
 pneumonia	UMLS:C0032285	Pneumonia
 polycystic kidney diseases	UMLS:C0022680	Polycystic Kidney Diseases
 polycystic kidney, autosomal dominant	UMLS:C0085413	Polycystic Kidney, Autosomal Dominant
 polycythemia	UMLS:C0032461	Polycythemia
+polyradiculoneuropathy, chronic inflammatory demyelinating	UMLS:C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
 postoperative nausea and vomiting	UMLS:C0520909	Postoperative Nausea and Vomiting
+postural orthostatic tachycardia syndrome	UMLS:C1299624	Postural Orthostatic Tachycardia Syndrome
 pre-eclampsia	UMLS:C0032914	Pre-Eclampsia
 pregnancy complications	UMLS:C0032962	Pregnancy Complications
 pregnancy loss	UMLS:C0687675	Abortion, Spontaneous
 premature birth	UMLS:C0151526	Premature Birth
+premature ovarian failure	UMLS:C1845293	Primary Ovarian Insufficiency
+premenstrual dysphoric disorder	UMLS:C0520676	Premenstrual Dysphoric Disorder
 priapism	UMLS:C0033117	Priapism
 primary biliary cirrhosis	UMLS:C0008312	Liver Cirrhosis, Biliary
 primary dystonia	UMLS:C0752203	Dystonic Disorders
 primary idiopathic dilated cardiomyopathy	UMLS:C1449563	Cardiomyopathy, Dilated
 primary ovarian insufficiency	UMLS:C0085215	Primary Ovarian Insufficiency
+primary sj�gren's syndrome	UMLS:C0151449	Sjogren's Syndrome
 progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant	UMLS:C1834846,UMLS:C1836439,UMLS:C1836460,UMLS:C1864668,UMLS:C2751319	Ophthalmoplegia, Chronic Progressive External
 proliferative diabetic retinopathy	UMLS:C0154830	Diabetic Retinopathy
 prostatic hyperplasia	UMLS:C2937421	Prostatic Hyperplasia
 psoriasis	UMLS:C0033860	Psoriasis
+psychomotor agitation	UMLS:C0085631	Psychomotor Agitation
 psychotic disorders	UMLS:C0033975	Psychotic Disorders
 pterygium	UMLS:C0033999	Pterygium
 puberty, precocious	UMLS:C0034013	Puberty, Precocious
 pulmonary arterial hypertension	UMLS:C2973725	Hypertension, Pulmonary
 pulmonary disease, chronic obstructive	UMLS:C0024117	Pulmonary Disease, Chronic Obstructive
 pulmonary fibrosis	UMLS:C0034069	Pulmonary Fibrosis
+purpura, schoenlein-henoch	UMLS:C0034152	Purpura, Schoenlein-Henoch
 purpura, thrombocytopenic, idiopathic	UMLS:C0043117	Purpura, Thrombocytopenic, Idiopathic
 q fever	UMLS:C0034362	Q Fever
 respiration disorders	UMLS:C0035204	Respiration Disorders
@@ -347,18 +421,23 @@ respiratory distress syndrome, adult	UMLS:C0035222	Respiratory Distress Syndrome
 respiratory syncytial virus infections	UMLS:C0035235	Respiratory Syncytial Virus Infections
 respiratory tract infections	UMLS:C0035243	Respiratory Tract Infections
 restless legs syndrome	UMLS:C0035258	Restless Legs Syndrome
+retinal artery occlusion	UMLS:C0035302	Retinal Artery Occlusion
 retinal diseases	UMLS:C0035309	Retinal Diseases
 rheumatic diseases	UMLS:C0035435	Rheumatic Diseases
 rheumatic fever	UMLS:C0035436	Rheumatic Fever
 rheumatic heart disease	UMLS:C0035439	Rheumatic Heart Disease
 rhinitis	UMLS:C0035455	Rhinitis
 rhinitis, allergic, seasonal	UMLS:C0018621	Rhinitis, Allergic, Seasonal
+rubella	UMLS:C0035920	Rubella
 sarcoidosis	UMLS:C0036202	Sarcoidosis
 sarcoidosis, pulmonary	UMLS:C0036205	Sarcoidosis, Pulmonary
 schistosomiasis mansoni	UMLS:C0036330	Schistosomiasis mansoni
 schizophrenia	UMLS:C0036341	Schizophrenia
+sciatica	UMLS:C0036396	Sciatica
+scleroderma	UMLS:C0011644	Scleroderma, Systemic
 scleroderma, systemic	UMLS:C0036421	Scleroderma, Systemic
 scoliosis	UMLS:C0036439	Scoliosis
+seasonal affective disorder	UMLS:C0085159	Seasonal Affective Disorder
 seizures	UMLS:C0036572	Seizures
 seizures, febrile	UMLS:C0009952	Seizures, Febrile
 sepsis	UMLS:C0243026	Sepsis
@@ -369,31 +448,46 @@ sleep apnea, obstructive	UMLS:C0520679	Sleep Apnea, Obstructive
 sleep disorders	UMLS:C0851578	Sleep Disorders
 solid tumor	UMLS:C0280100	Neoplasms
 spasms, infantile	UMLS:C0037769	Spasms, Infantile
+spinal diseases	UMLS:C0037933	Spinal Diseases
 spondylitis, ankylosing	UMLS:C0038013	Spondylitis, Ankylosing
 stomach diseases	UMLS:C0038354	Stomach Diseases
 stomach ulcer	UMLS:C0038358	Stomach Ulcer
 stomatitis, aphthous	UMLS:C0038363	Stomatitis, Aphthous
 stress disorders, post-traumatic	UMLS:C0038436	Stress Disorders, Post-Traumatic
 stroke	UMLS:C0038454	Stroke
+stroke, lacunar	UMLS:C3178801	Stroke, Lacunar
 subacute sclerosing panencephalitis	UMLS:C0038522	Subacute Sclerosing Panencephalitis
 subarachnoid hemorrhage	UMLS:C0038525	Subarachnoid Hemorrhage
 substance abuse	UMLS:C0740858	Substance-Related Disorders
-substance-related disorders	UMLS:C0236969	Substance-Related Disorders
+substance addiction	UMLS:C0038580	Substance-Related Disorders
 sudden infant death	UMLS:C0038644	Sudden Infant Death
+supranuclear palsy, progressive	UMLS:C0038868,UMLS:C1836148,UMLS:C1970476	Supranuclear Palsy, Progressive
 syncope	UMLS:C0039070	Syncope
 syncope, vasovagal	UMLS:C0042420	Syncope, Vasovagal
 systemic inflammatory response syndrome	UMLS:C0242966	Systemic Inflammatory Response Syndrome
+systemic onset juvenile chronic arthritis	UMLS:C1384600	Arthritis, Juvenile
+tachycardia, ventricular	UMLS:C0042514	Tachycardia, Ventricular
+takayasu arteritis	UMLS:C0039263	Takayasu Arteritis
+takotsubo cardiomyopathy	UMLS:C1739395	Takotsubo Cardiomyopathy
+temporomandibular joint disorders	UMLS:C0039494	Temporomandibular Joint Disorders
+thrombocythemia	UMLS:C3277671	Thrombocytosis
 thromboembolism	UMLS:C0040038	Thromboembolism
 thrombophilia	UMLS:C0398623	Thrombophilia
 thrombosis	UMLS:C0040053	Thrombosis
 thrombosis cerebral	UMLS:C0079102	Intracranial Thrombosis
+thrombosis of cerebral veins	UMLS:C0151945	Intracranial Thrombosis
 thyroid diseases	UMLS:C0040128	Thyroid Diseases
 tobacco use disorder	UMLS:C0040336	Tobacco Use Disorder
+tooth loss	UMLS:C0080233	Tooth Loss
+trachoma	UMLS:C0040592	Trachoma
 tuberculosis	UMLS:C0041296	Tuberculosis
 tuberculosis, pulmonary	UMLS:C0041327	Tuberculosis, Pulmonary
+typhoid fever	UMLS:C0041466	Typhoid Fever
 unipolar depression	UMLS:C0041696	Depressive Disorder
+urinary incontinence	UMLS:C0042024	Urinary Incontinence
 urinary tract infections	UMLS:C0042029	Urinary Tract Infections
 urolithiasis	UMLS:C0451641	Urolithiasis
+uterine prolapse	UMLS:C0042140	Uterine Prolapse
 uveitis	UMLS:C0042164	Uveitis
 uveitis, anterior	UMLS:C0042165	Uveitis, Anterior
 uveomeningoencephalitic syndrome	UMLS:C0042170	Uveomeningoencephalitic Syndrome
@@ -402,6 +496,9 @@ varicose ulcer	UMLS:C0042344	Varicose Ulcer
 vascular diseases	UMLS:C0042373	Vascular Diseases
 venous thromboembolism	UMLS:C1861172	Venous Thromboembolism
 venous thrombosis	UMLS:C0042487	Venous Thrombosis
+ventricular septal defect	UMLS:C3280777	Heart Septal Defects, Ventricular
 vesico-ureteral reflux	UMLS:C0042580	Vesico-Ureteral Reflux
 virus diseases	UMLS:C0042769	Virus Diseases
+vitamin d deficiency	UMLS:C0042870	Vitamin D Deficiency
 vitiligo	UMLS:C0042900	Vitiligo
+vulvar vestibulitis	UMLS:C0269084	Vulvar Vestibulitis
