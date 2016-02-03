@@ -16,9 +16,11 @@ File Descriptions
 
 - **details_cells.tsv**: Details of the 73 cell types tested. File contains the cell type name (NAME, obtained from FANTOM5), the mapped Cell Ontology ID (CL.ID) and the mapped MeSH terms (MESH). 
 - **details_diseases.tsv**: Details of the 503 diseases tested. File contains the disease name (NAME, obtained from DisGeNET), the mapped UMLS IDs (UMLS) and the mapped MeSH terms (MESH). 
+- **fantom5_replicates.tsv**: Processed FANTOM5 gene expression data without combination of replicates
 - **gsc_pvalues.tsv**: P-values computed using the GSC method. 
 - **gso_pvalues.tsv**: P-values computed using the GSO method. 
 - **text_pvalues.tsv**: P-values computed through text-mining of PubMed using mapped MeSH terms.
+
 
 
 References
